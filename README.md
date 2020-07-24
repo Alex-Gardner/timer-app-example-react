@@ -4,4 +4,7 @@
 
 App Screenshots:
 
-![GitHub Logo](./timer-screenshot1.svg)
+![Initial App State](./timer-screenshot1.svg)
+![Halfway App State](./timer-screenshot2.svg)
+![Flickering Red Text](./timer-screenshot3.svg)
+![Final State (no flickers)](./timer-screenshot4.svg)
